@@ -1,0 +1,61 @@
+{
+  "Software Developer": [
+    "Python",
+    "SQL",
+    "Git",
+    "REST API",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "DSA"
+  ],
+  "Full Stack Developer": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "SQL",
+    "Git",
+    "REST API"
+  ],
+  "Data Analyst": [
+    "Python",
+    "SQL",
+    "Excel",
+    "Power BI",
+    "Pandas",
+    "Statistics",
+    "Data Visualization"
+  ],
+  "Data Scientist": [
+    "Python",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "Statistics",
+    "Machine Learning",
+    "Scikit-learn",
+    "Power BI"
+  ],
+  "Cloud Engineer": [
+    "Python",
+    "Linux",
+    "Git",
+    "AWS",
+    "Azure",
+    "Docker",
+    "Networking",
+    "Terraform"
+  ],
+  "AI/ML Engineer": [
+    "Python",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "Machine Learning",
+    "Deep Learning",
+    "PyTorch",
+    "Git"
+  ]
+}
