@@ -445,16 +445,4 @@ Missing skills: {", ".join(best_chat_role["missing_skills"]) if best_chat_role["
         st.session_state.chat.append(("assistant", response))
         st.rerun()
 
-elif page == "📈 Power BI":
-    st.subheader("Power BI Executive Dashboard")
-    st.info(
-        "Build the Power BI report from data/cleaned_jobs.csv. "
-        "This Streamlit page acts as the navigation point to your Power BI analytics."
-    )
-    st.markdown("### Recommended Power BI pages")
-    st.write("1. Executive Overview — job count, companies, median salary")
-    st.write("2. Skill Demand — top skills and role-by-skill matrix")
-    st.write("3. Career & Salary — role salary and location comparison")
-    st.write("4. Skill Gap — selected user skills vs target role requirements")
-    st.write("5. Recommendations — role match and missing skills")
-    st.caption("See powerbi/POWERBI_GUIDE.md for the exact visuals and DAX measures.")
+
