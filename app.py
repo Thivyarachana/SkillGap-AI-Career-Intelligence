@@ -61,7 +61,7 @@ selected_skills = st.sidebar.multiselect(
 target_role = st.sidebar.selectbox("Target role", ["All roles"] + list(load_roles().keys()))
 page = st.sidebar.radio(
     "Navigate",
-    ["🏠 Overview","🧩 Skill Gap","🚀 Career Recommendations","📊 Market Analytics","🤖 AI Career Assistant","📈 Power BI"]
+    ["🏠 Overview","🧩 Skill Gap","🚀 Career Recommendations","📊 Market Analytics","🤖 AI Career Assistant"]
 )
 
 st.markdown(
